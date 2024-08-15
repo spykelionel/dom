@@ -2,4 +2,4 @@
 
 # Screenshots
 
-![Screenshot](ngochi-js.png)
+![Screenshot](./ngochi-js.png)
