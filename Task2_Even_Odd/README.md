@@ -1,4 +1,4 @@
-# DOM manipulation
+# Task 2: Even or odd number
 
 ## Screenshots
 
