@@ -1,5 +1,5 @@
 # DOM manipulation
 
-# Screenshots
+## Screenshots
 
-![Screenshot](./ngochi-js.png)
+![Screenshot](screenshots/ngochi-js.png)
